@@ -1,0 +1,651 @@
+﻿fuente,destino,peso
+Promoción,Prevención,0.800
+Promoción,Tratamiento,0.700
+Promoción,Rehabilitación,0.650
+Promoción,Cuidados Paliativos,0.600
+Promoción,Liderazgo en Salud,0.750
+Promoción,Pensamiento Crítico,0.700
+Promoción,Comunicación,0.800
+Promoción,Trabajo en Equipo,0.780
+Promoción,Innovación y Tecnología,0.680
+Promoción,Gestión de Calidad en Salud,0.650
+Promoción,Ética y Profesionalismo,0.720
+Promoción,Aprendizaje Continuo,0.700
+Promoción,Resiliencia y Bienestar,0.660
+Promoción,Sentido de Trascendencia,0.600
+Promoción,Medición y Análisis de Datos,0.550
+Promoción,Salud Pública y APS,0.850
+Promoción,Digitalización e IA,0.600
+Promoción,Contender con la Complejidad,0.700
+Promoción,Infraorganísmico,0.500
+Promoción,Organísmico,0.650
+Promoción,Supraorganísmico,0.800
+Promoción,Planear,0.900
+Promoción,Hacer,0.850
+Promoción,Verificar,0.800
+Promoción,Actuar,0.750
+Prevención,Promoción,0.800
+Prevención,Tratamiento,0.750
+Prevención,Rehabilitación,0.700
+Prevención,Cuidados Paliativos,0.650
+Prevención,Liderazgo en Salud,0.720
+Prevención,Pensamiento Crítico,0.680
+Prevención,Comunicación,0.770
+Prevención,Trabajo en Equipo,0.750
+Prevención,Innovación y Tecnología,0.660
+Prevención,Gestión de Calidad en Salud,0.640
+Prevención,Ética y Profesionalismo,0.700
+Prevención,Aprendizaje Continuo,0.680
+Prevención,Resiliencia y Bienestar,0.650
+Prevención,Sentido de Trascendencia,0.620
+Prevención,Medición y Análisis de Datos,0.500
+Prevención,Salud Pública y APS,0.880
+Prevención,Digitalización e IA,0.580
+Prevención,Contender con la Complejidad,0.680
+Prevención,Infraorganísmico,0.520
+Prevención,Organísmico,0.660
+Prevención,Supraorganísmico,0.790
+Prevención,Planear,0.880
+Prevención,Hacer,0.830
+Prevención,Verificar,0.780
+Prevención,Actuar,0.730
+Tratamiento,Promoción,0.700
+Tratamiento,Prevención,0.750
+Tratamiento,Rehabilitación,0.780
+Tratamiento,Cuidados Paliativos,0.700
+Tratamiento,Liderazgo en Salud,0.680
+Tratamiento,Pensamiento Crítico,0.650
+Tratamiento,Comunicación,0.720
+Tratamiento,Trabajo en Equipo,0.700
+Tratamiento,Innovación y Tecnología,0.640
+Tratamiento,Gestión de Calidad en Salud,0.620
+Tratamiento,Ética y Profesionalismo,0.670
+Tratamiento,Aprendizaje Continuo,0.660
+Tratamiento,Resiliencia y Bienestar,0.630
+Tratamiento,Sentido de Trascendencia,0.600
+Tratamiento,Medición y Análisis de Datos,0.480
+Tratamiento,Salud Pública y APS,0.600
+Tratamiento,Digitalización e IA,0.550
+Tratamiento,Contender con la Complejidad,0.650
+Tratamiento,Infraorganísmico,0.480
+Tratamiento,Organísmico,0.620
+Tratamiento,Supraorganísmico,0.700
+Tratamiento,Planear,0.800
+Tratamiento,Hacer,0.760
+Tratamiento,Verificar,0.800
+Tratamiento,Actuar,0.680
+Rehabilitación,Promoción,0.650
+Rehabilitación,Prevención,0.700
+Rehabilitación,Tratamiento,0.780
+Rehabilitación,Cuidados Paliativos,0.720
+Rehabilitación,Liderazgo en Salud,0.700
+Rehabilitación,Pensamiento Crítico,0.680
+Rehabilitación,Comunicación,0.730
+Rehabilitación,Trabajo en Equipo,0.710
+Rehabilitación,Innovación y Tecnología,0.660
+Rehabilitación,Gestión de Calidad en Salud,0.640
+Rehabilitación,Ética y Profesionalismo,0.690
+Rehabilitación,Aprendizaje Continuo,0.670
+Rehabilitación,Resiliencia y Bienestar,0.650
+Rehabilitación,Sentido de Trascendencia,0.620
+Rehabilitación,Medición y Análisis de Datos,0.500
+Rehabilitación,Salud Pública y APS,0.600
+Rehabilitación,Digitalización e IA,0.580
+Rehabilitación,Contender con la Complejidad,0.680
+Rehabilitación,Infraorganísmico,0.480
+Rehabilitación,Organísmico,0.620
+Rehabilitación,Supraorganísmico,0.700
+Rehabilitación,Planear,0.780
+Rehabilitación,Hacer,0.740
+Rehabilitación,Verificar,0.780
+Rehabilitación,Actuar,0.670
+Cuidados Paliativos,Promoción,0.600
+Cuidados Paliativos,Prevención,0.650
+Cuidados Paliativos,Tratamiento,0.700
+Cuidados Paliativos,Rehabilitación,0.720
+Cuidados Paliativos,Liderazgo en Salud,0.680
+Cuidados Paliativos,Pensamiento Crítico,0.660
+Cuidados Paliativos,Comunicación,0.700
+Cuidados Paliativos,Trabajo en Equipo,0.680
+Cuidados Paliativos,Innovación y Tecnología,0.620
+Cuidados Paliativos,Gestión de Calidad en Salud,0.600
+Cuidados Paliativos,Ética y Profesionalismo,0.670
+Cuidados Paliativos,Aprendizaje Continuo,0.650
+Cuidados Paliativos,Resiliencia y Bienestar,0.630
+Cuidados Paliativos,Sentido de Trascendencia,0.600
+Cuidados Paliativos,Medición y Análisis de Datos,0.480
+Cuidados Paliativos,Salud Pública y APS,0.550
+Cuidados Paliativos,Digitalización e IA,0.500
+Cuidados Paliativos,Contender con la Complejidad,0.600
+Cuidados Paliativos,Infraorganísmico,0.450
+Cuidados Paliativos,Organísmico,0.600
+Cuidados Paliativos,Supraorganísmico,0.680
+Cuidados Paliativos,Planear,0.750
+Cuidados Paliativos,Hacer,0.700
+Cuidados Paliativos,Verificar,0.700
+Cuidados Paliativos,Actuar,0.640
+Liderazgo en Salud,Promoción,0.750
+Liderazgo en Salud,Prevención,0.720
+Liderazgo en Salud,Tratamiento,0.680
+Liderazgo en Salud,Rehabilitación,0.700
+Liderazgo en Salud,Cuidados Paliativos,0.680
+Liderazgo en Salud,Pensamiento Crítico,0.800
+Liderazgo en Salud,Comunicación,0.850
+Liderazgo en Salud,Trabajo en Equipo,0.900
+Liderazgo en Salud,Innovación y Tecnología,0.800
+Liderazgo en Salud,Gestión de Calidad en Salud,0.780
+Liderazgo en Salud,Ética y Profesionalismo,0.750
+Liderazgo en Salud,Aprendizaje Continuo,0.720
+Liderazgo en Salud,Resiliencia y Bienestar,0.700
+Liderazgo en Salud,Sentido de Trascendencia,0.680
+Liderazgo en Salud,Medición y Análisis de Datos,0.550
+Liderazgo en Salud,Salud Pública y APS,0.600
+Liderazgo en Salud,Digitalización e IA,0.650
+Liderazgo en Salud,Contender con la Complejidad,0.600
+Liderazgo en Salud,Infraorganísmico,0.500
+Liderazgo en Salud,Organísmico,0.650
+Liderazgo en Salud,Supraorganísmico,0.750
+Liderazgo en Salud,Planear,0.800
+Liderazgo en Salud,Hacer,0.750
+Liderazgo en Salud,Verificar,0.800
+Liderazgo en Salud,Actuar,0.680
+Pensamiento Crítico,Promoción,0.700
+Pensamiento Crítico,Prevención,0.680
+Pensamiento Crítico,Tratamiento,0.650
+Pensamiento Crítico,Rehabilitación,0.680
+Pensamiento Crítico,Cuidados Paliativos,0.660
+Pensamiento Crítico,Liderazgo en Salud,0.800
+Pensamiento Crítico,Comunicación,0.820
+Pensamiento Crítico,Trabajo en Equipo,0.780
+Pensamiento Crítico,Innovación y Tecnología,0.800
+Pensamiento Crítico,Gestión de Calidad en Salud,0.750
+Pensamiento Crítico,Ética y Profesionalismo,0.700
+Pensamiento Crítico,Aprendizaje Continuo,0.720
+Pensamiento Crítico,Resiliencia y Bienestar,0.750
+Pensamiento Crítico,Sentido de Trascendencia,0.680
+Pensamiento Crítico,Medición y Análisis de Datos,0.600
+Pensamiento Crítico,Salud Pública y APS,0.650
+Pensamiento Crítico,Digitalización e IA,0.600
+Pensamiento Crítico,Contender con la Complejidad,0.680
+Pensamiento Crítico,Infraorganísmico,0.550
+Pensamiento Crítico,Organísmico,0.600
+Pensamiento Crítico,Supraorganísmico,0.700
+Pensamiento Crítico,Planear,0.720
+Pensamiento Crítico,Hacer,0.700
+Pensamiento Crítico,Verificar,0.700
+Pensamiento Crítico,Actuar,0.650
+Comunicación,Promoción,0.800
+Comunicación,Prevención,0.770
+Comunicación,Tratamiento,0.720
+Comunicación,Rehabilitación,0.730
+Comunicación,Cuidados Paliativos,0.700
+Comunicación,Liderazgo en Salud,0.850
+Comunicación,Pensamiento Crítico,0.820
+Comunicación,Trabajo en Equipo,0.880
+Comunicación,Innovación y Tecnología,0.750
+Comunicación,Gestión de Calidad en Salud,0.700
+Comunicación,Ética y Profesionalismo,0.780
+Comunicación,Aprendizaje Continuo,0.720
+Comunicación,Resiliencia y Bienestar,0.700
+Comunicación,Sentido de Trascendencia,0.680
+Comunicación,Medición y Análisis de Datos,0.500
+Comunicación,Salud Pública y APS,0.580
+Comunicación,Digitalización e IA,0.600
+Comunicación,Contender con la Complejidad,0.550
+Comunicación,Infraorganísmico,0.450
+Comunicación,Organísmico,0.600
+Comunicación,Supraorganísmico,0.700
+Comunicación,Planear,0.750
+Comunicación,Hacer,0.720
+Comunicación,Verificar,0.700
+Comunicación,Actuar,0.680
+Trabajo en Equipo,Promoción,0.780
+Trabajo en Equipo,Prevención,0.750
+Trabajo en Equipo,Tratamiento,0.700
+Trabajo en Equipo,Rehabilitación,0.710
+Trabajo en Equipo,Cuidados Paliativos,0.680
+Trabajo en Equipo,Liderazgo en Salud,0.900
+Trabajo en Equipo,Pensamiento Crítico,0.780
+Trabajo en Equipo,Comunicación,0.880
+Trabajo en Equipo,Innovación y Tecnología,0.820
+Trabajo en Equipo,Gestión de Calidad en Salud,0.800
+Trabajo en Equipo,Ética y Profesionalismo,0.780
+Trabajo en Equipo,Aprendizaje Continuo,0.750
+Trabajo en Equipo,Resiliencia y Bienestar,0.800
+Trabajo en Equipo,Sentido de Trascendencia,0.700
+Trabajo en Equipo,Medición y Análisis de Datos,0.550
+Trabajo en Equipo,Salud Pública y APS,0.600
+Trabajo en Equipo,Digitalización e IA,0.620
+Trabajo en Equipo,Contender con la Complejidad,0.600
+Trabajo en Equipo,Infraorganísmico,0.500
+Trabajo en Equipo,Organísmico,0.650
+Trabajo en Equipo,Supraorganísmico,0.750
+Trabajo en Equipo,Planear,0.800
+Trabajo en Equipo,Hacer,0.750
+Trabajo en Equipo,Verificar,0.800
+Trabajo en Equipo,Actuar,0.720
+Innovación y Tecnología,Promoción,0.680
+Innovación y Tecnología,Prevención,0.660
+Innovación y Tecnología,Tratamiento,0.640
+Innovación y Tecnología,Rehabilitación,0.660
+Innovación y Tecnología,Cuidados Paliativos,0.620
+Innovación y Tecnología,Liderazgo en Salud,0.800
+Innovación y Tecnología,Pensamiento Crítico,0.800
+Innovación y Tecnología,Comunicación,0.750
+Innovación y Tecnología,Trabajo en Equipo,0.820
+Innovación y Tecnología,Gestión de Calidad en Salud,0.780
+Innovación y Tecnología,Ética y Profesionalismo,0.750
+Innovación y Tecnología,Aprendizaje Continuo,0.720
+Innovación y Tecnología,Resiliencia y Bienestar,0.700
+Innovación y Tecnología,Sentido de Trascendencia,0.680
+Innovación y Tecnología,Medición y Análisis de Datos,0.650
+Innovación y Tecnología,Salud Pública y APS,0.600
+Innovación y Tecnología,Digitalización e IA,0.900
+Innovación y Tecnología,Contender con la Complejidad,0.750
+Innovación y Tecnología,Infraorganísmico,0.550
+Innovación y Tecnología,Organísmico,0.600
+Innovación y Tecnología,Supraorganísmico,0.700
+Innovación y Tecnología,Planear,0.700
+Innovación y Tecnología,Hacer,0.680
+Innovación y Tecnología,Verificar,0.650
+Innovación y Tecnología,Actuar,0.640
+Gestión de Calidad en Salud,Promoción,0.650
+Gestión de Calidad en Salud,Prevención,0.640
+Gestión de Calidad en Salud,Tratamiento,0.620
+Gestión de Calidad en Salud,Rehabilitación,0.640
+Gestión de Calidad en Salud,Cuidados Paliativos,0.600
+Gestión de Calidad en Salud,Liderazgo en Salud,0.780
+Gestión de Calidad en Salud,Pensamiento Crítico,0.750
+Gestión de Calidad en Salud,Comunicación,0.700
+Gestión de Calidad en Salud,Trabajo en Equipo,0.800
+Gestión de Calidad en Salud,Innovación y Tecnología,0.780
+Gestión de Calidad en Salud,Ética y Profesionalismo,0.820
+Gestión de Calidad en Salud,Aprendizaje Continuo,0.750
+Gestión de Calidad en Salud,Resiliencia y Bienestar,0.720
+Gestión de Calidad en Salud,Sentido de Trascendencia,0.700
+Gestión de Calidad en Salud,Medición y Análisis de Datos,0.600
+Gestión de Calidad en Salud,Salud Pública y APS,0.620
+Gestión de Calidad en Salud,Digitalización e IA,0.650
+Gestión de Calidad en Salud,Contender con la Complejidad,0.600
+Gestión de Calidad en Salud,Infraorganísmico,0.550
+Gestión de Calidad en Salud,Organísmico,0.600
+Gestión de Calidad en Salud,Supraorganísmico,0.700
+Gestión de Calidad en Salud,Planear,0.720
+Gestión de Calidad en Salud,Hacer,0.700
+Gestión de Calidad en Salud,Verificar,0.700
+Gestión de Calidad en Salud,Actuar,0.660
+Ética y Profesionalismo,Promoción,0.720
+Ética y Profesionalismo,Prevención,0.700
+Ética y Profesionalismo,Tratamiento,0.670
+Ética y Profesionalismo,Rehabilitación,0.690
+Ética y Profesionalismo,Cuidados Paliativos,0.670
+Ética y Profesionalismo,Liderazgo en Salud,0.750
+Ética y Profesionalismo,Pensamiento Crítico,0.700
+Ética y Profesionalismo,Comunicación,0.780
+Ética y Profesionalismo,Trabajo en Equipo,0.780
+Ética y Profesionalismo,Innovación y Tecnología,0.750
+Ética y Profesionalismo,Gestión de Calidad en Salud,0.820
+Ética y Profesionalismo,Aprendizaje Continuo,0.800
+Ética y Profesionalismo,Resiliencia y Bienestar,0.780
+Ética y Profesionalismo,Sentido de Trascendencia,0.750
+Ética y Profesionalismo,Medición y Análisis de Datos,0.550
+Ética y Profesionalismo,Salud Pública y APS,0.600
+Ética y Profesionalismo,Digitalización e IA,0.580
+Ética y Profesionalismo,Contender con la Complejidad,0.550
+Ética y Profesionalismo,Infraorganísmico,0.500
+Ética y Profesionalismo,Organísmico,0.600
+Ética y Profesionalismo,Supraorganísmico,0.700
+Ética y Profesionalismo,Planear,0.680
+Ética y Profesionalismo,Hacer,0.680
+Ética y Profesionalismo,Verificar,0.680
+Ética y Profesionalismo,Actuar,0.640
+Aprendizaje Continuo,Promoción,0.700
+Aprendizaje Continuo,Prevención,0.680
+Aprendizaje Continuo,Tratamiento,0.660
+Aprendizaje Continuo,Rehabilitación,0.670
+Aprendizaje Continuo,Cuidados Paliativos,0.650
+Aprendizaje Continuo,Liderazgo en Salud,0.720
+Aprendizaje Continuo,Pensamiento Crítico,0.720
+Aprendizaje Continuo,Comunicación,0.720
+Aprendizaje Continuo,Trabajo en Equipo,0.750
+Aprendizaje Continuo,Innovación y Tecnología,0.720
+Aprendizaje Continuo,Gestión de Calidad en Salud,0.750
+Aprendizaje Continuo,Ética y Profesionalismo,0.800
+Aprendizaje Continuo,Resiliencia y Bienestar,0.780
+Aprendizaje Continuo,Sentido de Trascendencia,0.700
+Aprendizaje Continuo,Medición y Análisis de Datos,0.550
+Aprendizaje Continuo,Salud Pública y APS,0.600
+Aprendizaje Continuo,Digitalización e IA,0.580
+Aprendizaje Continuo,Contender con la Complejidad,0.550
+Aprendizaje Continuo,Infraorganísmico,0.500
+Aprendizaje Continuo,Organísmico,0.600
+Aprendizaje Continuo,Supraorganísmico,0.680
+Aprendizaje Continuo,Planear,0.700
+Aprendizaje Continuo,Hacer,0.680
+Aprendizaje Continuo,Verificar,0.700
+Aprendizaje Continuo,Actuar,0.660
+Resiliencia y Bienestar,Promoción,0.660
+Resiliencia y Bienestar,Prevención,0.650
+Resiliencia y Bienestar,Tratamiento,0.630
+Resiliencia y Bienestar,Rehabilitación,0.650
+Resiliencia y Bienestar,Cuidados Paliativos,0.630
+Resiliencia y Bienestar,Liderazgo en Salud,0.700
+Resiliencia y Bienestar,Pensamiento Crítico,0.750
+Resiliencia y Bienestar,Comunicación,0.700
+Resiliencia y Bienestar,Trabajo en Equipo,0.800
+Resiliencia y Bienestar,Innovación y Tecnología,0.700
+Resiliencia y Bienestar,Gestión de Calidad en Salud,0.720
+Resiliencia y Bienestar,Ética y Profesionalismo,0.780
+Resiliencia y Bienestar,Aprendizaje Continuo,0.780
+Resiliencia y Bienestar,Sentido de Trascendencia,0.680
+Resiliencia y Bienestar,Medición y Análisis de Datos,0.550
+Resiliencia y Bienestar,Salud Pública y APS,0.600
+Resiliencia y Bienestar,Digitalización e IA,0.580
+Resiliencia y Bienestar,Contender con la Complejidad,0.550
+Resiliencia y Bienestar,Infraorganísmico,0.500
+Resiliencia y Bienestar,Organísmico,0.600
+Resiliencia y Bienestar,Supraorganísmico,0.680
+Resiliencia y Bienestar,Planear,0.700
+Resiliencia y Bienestar,Hacer,0.680
+Resiliencia y Bienestar,Verificar,0.700
+Resiliencia y Bienestar,Actuar,0.640
+Sentido de Trascendencia,Promoción,0.600
+Sentido de Trascendencia,Prevención,0.620
+Sentido de Trascendencia,Tratamiento,0.600
+Sentido de Trascendencia,Rehabilitación,0.620
+Sentido de Trascendencia,Cuidados Paliativos,0.600
+Sentido de Trascendencia,Liderazgo en Salud,0.680
+Sentido de Trascendencia,Pensamiento Crítico,0.680
+Sentido de Trascendencia,Comunicación,0.680
+Sentido de Trascendencia,Trabajo en Equipo,0.700
+Sentido de Trascendencia,Innovación y Tecnología,0.680
+Sentido de Trascendencia,Gestión de Calidad en Salud,0.700
+Sentido de Trascendencia,Ética y Profesionalismo,0.750
+Sentido de Trascendencia,Aprendizaje Continuo,0.700
+Sentido de Trascendencia,Resiliencia y Bienestar,0.680
+Sentido de Trascendencia,Medición y Análisis de Datos,0.500
+Sentido de Trascendencia,Salud Pública y APS,0.550
+Sentido de Trascendencia,Digitalización e IA,0.500
+Sentido de Trascendencia,Contender con la Complejidad,0.480
+Sentido de Trascendencia,Infraorganísmico,0.450
+Sentido de Trascendencia,Organísmico,0.600
+Sentido de Trascendencia,Supraorganísmico,0.680
+Sentido de Trascendencia,Planear,0.680
+Sentido de Trascendencia,Hacer,0.650
+Sentido de Trascendencia,Verificar,0.640
+Sentido de Trascendencia,Actuar,0.620
+Medición y Análisis de Datos,Promoción,0.550
+Medición y Análisis de Datos,Prevención,0.500
+Medición y Análisis de Datos,Tratamiento,0.480
+Medición y Análisis de Datos,Rehabilitación,0.500
+Medición y Análisis de Datos,Cuidados Paliativos,0.480
+Medición y Análisis de Datos,Liderazgo en Salud,0.550
+Medición y Análisis de Datos,Pensamiento Crítico,0.600
+Medición y Análisis de Datos,Comunicación,0.500
+Medición y Análisis de Datos,Trabajo en Equipo,0.550
+Medición y Análisis de Datos,Innovación y Tecnología,0.650
+Medición y Análisis de Datos,Gestión de Calidad en Salud,0.600
+Medición y Análisis de Datos,Ética y Profesionalismo,0.550
+Medición y Análisis de Datos,Aprendizaje Continuo,0.550
+Medición y Análisis de Datos,Resiliencia y Bienestar,0.550
+Medición y Análisis de Datos,Sentido de Trascendencia,0.500
+Medición y Análisis de Datos,Salud Pública y APS,0.620
+Medición y Análisis de Datos,Digitalización e IA,0.600
+Medición y Análisis de Datos,Contender con la Complejidad,0.550
+Medición y Análisis de Datos,Infraorganísmico,0.500
+Medición y Análisis de Datos,Organísmico,0.600
+Medición y Análisis de Datos,Supraorganísmico,0.650
+Medición y Análisis de Datos,Planear,0.600
+Medición y Análisis de Datos,Hacer,0.550
+Medición y Análisis de Datos,Verificar,0.600
+Medición y Análisis de Datos,Actuar,0.600
+Salud Pública y APS,Promoción,0.850
+Salud Pública y APS,Prevención,0.880
+Salud Pública y APS,Tratamiento,0.600
+Salud Pública y APS,Rehabilitación,0.600
+Salud Pública y APS,Cuidados Paliativos,0.550
+Salud Pública y APS,Liderazgo en Salud,0.600
+Salud Pública y APS,Pensamiento Crítico,0.650
+Salud Pública y APS,Comunicación,0.580
+Salud Pública y APS,Trabajo en Equipo,0.600
+Salud Pública y APS,Innovación y Tecnología,0.600
+Salud Pública y APS,Gestión de Calidad en Salud,0.620
+Salud Pública y APS,Ética y Profesionalismo,0.600
+Salud Pública y APS,Aprendizaje Continuo,0.600
+Salud Pública y APS,Resiliencia y Bienestar,0.600
+Salud Pública y APS,Sentido de Trascendencia,0.550
+Salud Pública y APS,Medición y Análisis de Datos,0.620
+Salud Pública y APS,Digitalización e IA,0.680
+Salud Pública y APS,Contender con la Complejidad,0.600
+Salud Pública y APS,Infraorganísmico,0.550
+Salud Pública y APS,Organísmico,0.700
+Salud Pública y APS,Supraorganísmico,0.750
+Salud Pública y APS,Planear,0.700
+Salud Pública y APS,Hacer,0.650
+Salud Pública y APS,Verificar,0.600
+Salud Pública y APS,Actuar,0.650
+Digitalización e IA,Promoción,0.680
+Digitalización e IA,Prevención,0.660
+Digitalización e IA,Tratamiento,0.640
+Digitalización e IA,Rehabilitación,0.660
+Digitalización e IA,Cuidados Paliativos,0.620
+Digitalización e IA,Liderazgo en Salud,0.600
+Digitalización e IA,Pensamiento Crítico,0.600
+Digitalización e IA,Comunicación,0.600
+Digitalización e IA,Trabajo en Equipo,0.620
+Digitalización e IA,Innovación y Tecnología,0.900
+Digitalización e IA,Gestión de Calidad en Salud,0.650
+Digitalización e IA,Ética y Profesionalismo,0.580
+Digitalización e IA,Aprendizaje Continuo,0.580
+Digitalización e IA,Resiliencia y Bienestar,0.580
+Digitalización e IA,Sentido de Trascendencia,0.500
+Digitalización e IA,Medición y Análisis de Datos,0.600
+Digitalización e IA,Salud Pública y APS,0.680
+Digitalización e IA,Contender con la Complejidad,0.650
+Digitalización e IA,Infraorganísmico,0.550
+Digitalización e IA,Organísmico,0.600
+Digitalización e IA,Supraorganísmico,0.650
+Digitalización e IA,Planear,0.600
+Digitalización e IA,Hacer,0.550
+Digitalización e IA,Verificar,0.550
+Digitalización e IA,Actuar,0.580
+Contender con la Complejidad,Promoción,0.700
+Contender con la Complejidad,Prevención,0.680
+Contender con la Complejidad,Tratamiento,0.650
+Contender con la Complejidad,Rehabilitación,0.680
+Contender con la Complejidad,Cuidados Paliativos,0.600
+Contender con la Complejidad,Liderazgo en Salud,0.600
+Contender con la Complejidad,Pensamiento Crítico,0.680
+Contender con la Complejidad,Comunicación,0.550
+Contender con la Complejidad,Trabajo en Equipo,0.600
+Contender con la Complejidad,Innovación y Tecnología,0.750
+Contender con la Complejidad,Gestión de Calidad en Salud,0.600
+Contender con la Complejidad,Ética y Profesionalismo,0.550
+Contender con la Complejidad,Aprendizaje Continuo,0.550
+Contender con la Complejidad,Resiliencia y Bienestar,0.480
+Contender con la Complejidad,Sentido de Trascendencia,0.480
+Contender con la Complejidad,Medición y Análisis de Datos,0.550
+Contender con la Complejidad,Salud Pública y APS,0.600
+Contender con la Complejidad,Digitalización e IA,0.650
+Contender con la Complejidad,Infraorganísmico,0.500
+Contender con la Complejidad,Organísmico,0.550
+Contender con la Complejidad,Supraorganísmico,0.600
+Contender con la Complejidad,Planear,0.600
+Contender con la Complejidad,Hacer,0.580
+Contender con la Complejidad,Verificar,0.550
+Contender con la Complejidad,Actuar,0.580
+Infraorganísmico,Promoción,0.500
+Infraorganísmico,Prevención,0.520
+Infraorganísmico,Tratamiento,0.480
+Infraorganísmico,Rehabilitación,0.480
+Infraorganísmico,Cuidados Paliativos,0.450
+Infraorganísmico,Liderazgo en Salud,0.500
+Infraorganísmico,Pensamiento Crítico,0.550
+Infraorganísmico,Comunicación,0.450
+Infraorganísmico,Trabajo en Equipo,0.500
+Infraorganísmico,Innovación y Tecnología,0.550
+Infraorganísmico,Gestión de Calidad en Salud,0.550
+Infraorganísmico,Ética y Profesionalismo,0.500
+Infraorganísmico,Aprendizaje Continuo,0.500
+Infraorganísmico,Resiliencia y Bienestar,0.500
+Infraorganísmico,Sentido de Trascendencia,0.450
+Infraorganísmico,Medición y Análisis de Datos,0.500
+Infraorganísmico,Salud Pública y APS,0.550
+Infraorganísmico,Digitalización e IA,0.550
+Infraorganísmico,Contender con la Complejidad,0.500
+Infraorganísmico,Organísmico,0.600
+Infraorganísmico,Supraorganísmico,0.650
+Infraorganísmico,Planear,0.500
+Infraorganísmico,Hacer,0.500
+Infraorganísmico,Verificar,0.480
+Infraorganísmico,Actuar,0.500
+Organísmico,Promoción,0.650
+Organísmico,Prevención,0.660
+Organísmico,Tratamiento,0.620
+Organísmico,Rehabilitación,0.620
+Organísmico,Cuidados Paliativos,0.600
+Organísmico,Liderazgo en Salud,0.650
+Organísmico,Pensamiento Crítico,0.600
+Organísmico,Comunicación,0.600
+Organísmico,Trabajo en Equipo,0.650
+Organísmico,Innovación y Tecnología,0.600
+Organísmico,Gestión de Calidad en Salud,0.600
+Organísmico,Ética y Profesionalismo,0.600
+Organísmico,Aprendizaje Continuo,0.600
+Organísmico,Resiliencia y Bienestar,0.600
+Organísmico,Sentido de Trascendencia,0.600
+Organísmico,Medición y Análisis de Datos,0.600
+Organísmico,Salud Pública y APS,0.700
+Organísmico,Digitalización e IA,0.600
+Organísmico,Contender con la Complejidad,0.550
+Organísmico,Infraorganísmico,0.600
+Organísmico,Supraorganísmico,0.750
+Organísmico,Planear,0.800
+Organísmico,Hacer,0.800
+Organísmico,Verificar,0.750
+Organísmico,Actuar,0.650
+Supraorganísmico,Promoción,0.800
+Supraorganísmico,Prevención,0.790
+Supraorganísmico,Tratamiento,0.700
+Supraorganísmico,Rehabilitación,0.700
+Supraorganísmico,Cuidados Paliativos,0.600
+Supraorganísmico,Liderazgo en Salud,0.750
+Supraorganísmico,Pensamiento Crítico,0.700
+Supraorganísmico,Comunicación,0.700
+Supraorganísmico,Trabajo en Equipo,0.750
+Supraorganísmico,Innovación y Tecnología,0.650
+Supraorganísmico,Gestión de Calidad en Salud,0.700
+Supraorganísmico,Ética y Profesionalismo,0.750
+Supraorganísmico,Aprendizaje Continuo,0.680
+Supraorganísmico,Resiliencia y Bienestar,0.680
+Supraorganísmico,Sentido de Trascendencia,0.600
+Supraorganísmico,Medición y Análisis de Datos,0.650
+Supraorganísmico,Salud Pública y APS,0.750
+Supraorganísmico,Digitalización e IA,0.650
+Supraorganísmico,Contender con la Complejidad,0.600
+Supraorganísmico,Infraorganísmico,0.650
+Supraorganísmico,Organísmico,0.750
+Supraorganísmico,Planear,0.800
+Supraorganísmico,Hacer,0.800
+Supraorganísmico,Verificar,0.800
+Supraorganísmico,Actuar,0.800
+Planear,Promoción,0.900
+Planear,Prevención,0.880
+Planear,Tratamiento,0.800
+Planear,Rehabilitación,0.780
+Planear,Cuidados Paliativos,0.750
+Planear,Liderazgo en Salud,0.750
+Planear,Pensamiento Crítico,0.700
+Planear,Comunicación,0.720
+Planear,Trabajo en Equipo,0.750
+Planear,Innovación y Tecnología,0.650
+Planear,Gestión de Calidad en Salud,0.700
+Planear,Ética y Profesionalismo,0.680
+Planear,Aprendizaje Continuo,0.650
+Planear,Resiliencia y Bienestar,0.600
+Planear,Sentido de Trascendencia,0.600
+Planear,Medición y Análisis de Datos,0.650
+Planear,Salud Pública y APS,0.700
+Planear,Digitalización e IA,0.600
+Planear,Contender con la Complejidad,0.600
+Planear,Infraorganísmico,0.650
+Planear,Organísmico,0.700
+Planear,Supraorganísmico,0.800
+Planear,Hacer,0.900
+Planear,Verificar,0.850
+Planear,Actuar,0.800
+Hacer,Promoción,0.850
+Hacer,Prevención,0.830
+Hacer,Tratamiento,0.760
+Hacer,Rehabilitación,0.740
+Hacer,Cuidados Paliativos,0.700
+Hacer,Liderazgo en Salud,0.700
+Hacer,Pensamiento Crítico,0.680
+Hacer,Comunicación,0.700
+Hacer,Trabajo en Equipo,0.750
+Hacer,Innovación y Tecnología,0.680
+Hacer,Gestión de Calidad en Salud,0.700
+Hacer,Ética y Profesionalismo,0.680
+Hacer,Aprendizaje Continuo,0.650
+Hacer,Resiliencia y Bienestar,0.660
+Hacer,Sentido de Trascendencia,0.640
+Hacer,Medición y Análisis de Datos,0.600
+Hacer,Salud Pública y APS,0.650
+Hacer,Digitalización e IA,0.580
+Hacer,Contender con la Complejidad,0.580
+Hacer,Infraorganísmico,0.500
+Hacer,Organísmico,0.650
+Hacer,Supraorganísmico,0.800
+Hacer,Planear,0.900
+Hacer,Verificar,0.880
+Hacer,Actuar,0.850
+Verificar,Promoción,0.800
+Verificar,Prevención,0.780
+Verificar,Tratamiento,0.800
+Verificar,Rehabilitación,0.740
+Verificar,Cuidados Paliativos,0.700
+Verificar,Liderazgo en Salud,0.800
+Verificar,Pensamiento Crítico,0.700
+Verificar,Comunicación,0.720
+Verificar,Trabajo en Equipo,0.780
+Verificar,Innovación y Tecnología,0.680
+Verificar,Gestión de Calidad en Salud,0.700
+Verificar,Ética y Profesionalismo,0.680
+Verificar,Aprendizaje Continuo,0.650
+Verificar,Resiliencia y Bienestar,0.660
+Verificar,Sentido de Trascendencia,0.650
+Verificar,Medición y Análisis de Datos,0.550
+Verificar,Salud Pública y APS,0.600
+Verificar,Digitalización e IA,0.550
+Verificar,Contender con la Complejidad,0.550
+Verificar,Infraorganísmico,0.480
+Verificar,Organísmico,0.620
+Verificar,Supraorganísmico,0.750
+Verificar,Planear,0.850
+Verificar,Hacer,0.880
+Verificar,Actuar,0.900
+Actuar,Promoción,0.750
+Actuar,Prevención,0.730
+Actuar,Tratamiento,0.680
+Actuar,Rehabilitación,0.670
+Actuar,Cuidados Paliativos,0.640
+Actuar,Liderazgo en Salud,0.680
+Actuar,Pensamiento Crítico,0.650
+Actuar,Comunicación,0.680
+Actuar,Trabajo en Equipo,0.720
+Actuar,Innovación y Tecnología,0.640
+Actuar,Gestión de Calidad en Salud,0.660
+Actuar,Ética y Profesionalismo,0.640
+Actuar,Aprendizaje Continuo,0.660
+Actuar,Resiliencia y Bienestar,0.640
+Actuar,Sentido de Trascendencia,0.620
+Actuar,Medición y Análisis de Datos,0.600
+Actuar,Salud Pública y APS,0.650
+Actuar,Digitalización e IA,0.580
+Actuar,Contender con la Complejidad,0.580
+Actuar,Infraorganísmico,0.500
+Actuar,Organísmico,0.650
+Actuar,Supraorganísmico,0.800
+Actuar,Planear,0.800
+Actuar,Hacer,0.850
+Actuar,Verificar,0.900
