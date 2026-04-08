@@ -1,0 +1,67 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Length 5719 >> stream
+BT
+/F1 9 Tf
+1 0 0 1 40 802 Tm (Infografa Acadmica - Joaqun Gutirrez :root { --primary: #1a3a5f; /* Azul Acadmico UNAM/UNITEC */) Tj
+1 0 0 1 40 791 Tm (--secondary: #4a6fa5; --accent-bg: #f8f9fa; --border: #d1d9e6; --text-dark: #333; /* Colores temticos */) Tj
+1 0 0 1 40 780 Tm (--c-hum: #e67e22; --c-priv: #8e44ad; --c-pub: #27ae60; --c-inst: #2980b9; --c-esc: #7f8c8d; --c-ped:) Tj
+1 0 0 1 40 769 Tm (#16a085; --c-rh: #c0392b; --c-ra: #f1c40f; --c-rm: #795548; --c-rf: #009688; } body { font-family:) Tj
+1 0 0 1 40 758 Tm ('Roboto', sans-serif; background-color: #e9ecef; margin: 0; padding: 20px; display: flex; justify-) Tj
+1 0 0 1 40 747 Tm (content: center; } .infographic { width: 850px; background: #ffffff; padding: 45px; box-shadow: 0 10px) Tj
+1 0 0 1 40 736 Tm (30px rgba\(0,0,0,0.15\); border-radius: 10px; position: relative; } .infographic::before { content: '';) Tj
+1 0 0 1 40 725 Tm (position: absolute; top: 0; left: 0; width: 100%; height: 12px; background: linear-gradient\(90deg,) Tj
+1 0 0 1 40 714 Tm (var\(--primary\), var\(--secondary\)\); } header { text-align: center; margin-bottom: 35px; border-bottom: 2px) Tj
+1 0 0 1 40 703 Tm (solid var\(--accent-bg\); padding-bottom: 25px; } .header-icon svg { width: 80px; height: 80px; fill:) Tj
+1 0 0 1 40 692 Tm (var\(--primary\); } h1 { color: var\(--primary\); font-size: 26px; text-transform: uppercase; margin: 15px 0) Tj
+1 0 0 1 40 681 Tm (5px; line-height: 1.2; font-weight: 700; } h2 { color: var\(--secondary\); font-size: 19px; border-left:) Tj
+1 0 0 1 40 670 Tm (6px solid var\(--primary\); padding-left: 15px; margin: 35px 0 15px 0; text-transform: uppercase; letter-) Tj
+1 0 0 1 40 659 Tm (spacing: 0.8px; } .intro-box { background: var\(--accent-bg\); padding: 20px; border-radius: 8px; display:) Tj
+1 0 0 1 40 648 Tm (flex; align-items: center; gap: 20px; border-right: 4px solid var\(--primary\); } .intro-box svg { width:) Tj
+1 0 0 1 40 637 Tm (55px; height: 55px; fill: var\(--secondary\); flex-shrink: 0; } .intro-text { font-size: 15px; line-height:) Tj
+1 0 0 1 40 626 Tm (1.6; margin: 0; text-align: justify; } .grid { display: grid; gap: 18px; margin-top: 15px; } .grid-3 {) Tj
+1 0 0 1 40 615 Tm (grid-template-columns: repeat\(3, 1fr\); } .grid-4 { grid-template-columns: repeat\(4, 1fr\); } .card {) Tj
+1 0 0 1 40 604 Tm (background: #fff; padding: 18px; border: 1px solid var\(--border\); border-radius: 8px; text-align: center;) Tj
+1 0 0 1 40 593 Tm (display: flex; flex-direction: column; align-items: center; position: relative; } .card svg { width:) Tj
+1 0 0 1 40 582 Tm (45px; height: 45px; margin-bottom: 12px; } .card-title { font-weight: 700; font-size: 15px; margin-) Tj
+1 0 0 1 40 571 Tm (bottom: 8px; color: var\(--primary\); } .card-desc { font-size: 12.5px; color: #555; line-height: 1.4; } /*) Tj
+1 0 0 1 40 560 Tm (Colores de iconos especficos */ .icon-hum { fill: var\(--c-hum\); } .icon-priv { fill: var\(--c-priv\); }) Tj
+1 0 0 1 40 549 Tm (.icon-pub { fill: var\(--c-pub\); } .icon-inst { fill: var\(--c-inst\); } .icon-esc { fill: var\(--c-esc\); }) Tj
+1 0 0 1 40 538 Tm (.icon-ped { fill: var\(--c-ped\); } .icon-rh { fill: var\(--c-rh\); } .icon-ra { fill: var\(--c-ra\); } .icon-) Tj
+1 0 0 1 40 527 Tm (rm { fill: var\(--c-rm\); } .icon-rf { fill: var\(--c-rf\); } .conclusion-box { background: var\(--primary\);) Tj
+1 0 0 1 40 516 Tm (color: white; padding: 30px; border-radius: 8px; display: flex; align-items: center; gap: 25px; margin-) Tj
+1 0 0 1 40 505 Tm (top: 45px; } .conclusion-box svg { width: 65px; height: 65px; fill: white; flex-shrink: 0; } .conclusion-) Tj
+1 0 0 1 40 494 Tm (box p { font-size: 15px; line-height: 1.7; margin: 0; font-style: italic; } footer { margin-top: 40px;) Tj
+1 0 0 1 40 483 Tm (font-size: 11.5px; color: #444; border-top: 2px solid var\(--border\); padding-top: 20px; line-height: 1.6;) Tj
+1 0 0 1 40 472 Tm (} .ref-item { margin-bottom: 8px; text-indent: -25px; padding-left: 25px; } .author-box { margin-top:) Tj
+1 0 0 1 40 461 Tm (30px; background: #f1f3f5; padding: 25px; border: 2px solid var\(--primary\); border-radius: 8px; display:) Tj
+1 0 0 1 40 450 Tm (flex; justify-content: space-between; align-items: center; } .author-item { font-size: 14px; display:) Tj
+1 0 0 1 40 439 Tm (flex; align-items: center; gap: 12px; font-weight: 700; } .author-item svg { width: 30px; height: 30px;) Tj
+1 0 0 1 40 428 Tm (fill: var\(--primary\); } @media print { body { background: none; padding: 0; } .infographic { box-shadow:) Tj
+1 0 0 1 40 417 Tm (none; width: 100%; border: none; } } Componentes principales en la planeacin y gestin de una) Tj
+1 0 0 1 40 406 Tm (institucin educativa 1. Introduccin La planeacin y la gestin educativa son procesos fundamentales) Tj
+1 0 0 1 40 395 Tm (para organizar acciones, coordinar recursos y orientar la toma de decisiones hacia la mejora continua. Su) Tj
+1 0 0 1 40 384 Tm (propsito es fortalecer la calidad educativa, responder al contexto institucional y favorecer el) Tj
+1 0 0 1 40 373 Tm (desarrollo integral de los estudiantes \(UNITEC, 2025\) . 2. Tipos de Instituciones Educativas Humanitarias) Tj
+1 0 0 1 40 362 Tm (Garantizan el acceso a la educacin en contextos de emergencia o vulnerabilidad crtica. Privadas Operan) Tj
+1 0 0 1 40 351 Tm (con financiamiento particular, modelos pedaggicos diversos y autonoma en su pnsum. Pblicas) Tj
+1 0 0 1 40 340 Tm (Financiadas por el Estado con nfasis en equidad, inclusin y cobertura social universal. Conclusin: La) Tj
+1 0 0 1 40 329 Tm (gestin estratgica trasciende la administracin de recursos; exige un liderazgo pedaggico que acompae) Tj
+1 0 0 1 40 318 Tm (la labor docente y transforme a la institucin en una organizacin resiliente.) Tj
+ET
+endstream endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+6082
+%%EOF
